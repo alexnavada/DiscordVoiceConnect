@@ -4,8 +4,8 @@ import threading
 from flask import Flask
 
 DISCORD_TOKEN = ""
-GUILD_ID = "1069960275224166440"
-VOICE_CHANNEL_ID = "1271233502402056349"
+GUILD_ID = ""
+VOICE_CHANNEL_ID = ""
 
 app = Flask(__name__)
 
